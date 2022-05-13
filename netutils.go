@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 )
 
 const cMd5SignKey = "183dscvnfkwjbvnh2830nvdfpsvnwOIY7s21ncqndsk"
